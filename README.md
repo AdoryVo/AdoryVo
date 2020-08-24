@@ -1,4 +1,5 @@
-### Hi there 👋
+# Adory Vo :fire: :100:
+👋 Hey, I'm Adory, a sophomore at UC San Diego studying Computer Science.
 
 <!--
 **AdoryVo/AdoryVo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### What's going on:
+- 🌱 I’m currently learning to use React with Node.js!
+- 📫 How to reach me: adoryvo.business@gmail.com
+
+#### This cool profile section was made using a simple README.md in a special repo.
+Tutorial I used: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
