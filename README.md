@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 ### What's going on:
-- 🌱 I’m currently learning to use React with Node.js!
+- 🌱 I’m currently learning to use React with Node.js
 - 📫 How to reach me: adoryvo.business@gmail.com
 
-#### This cool profile section was made using a simple README.md in a special repo.
-Tutorial I used: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+#### Profile README Tutorial I used:
+https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
