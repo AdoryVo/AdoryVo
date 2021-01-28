@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### What's going on:
+- 🔭 I’m currently working on freelance software development with web technologies like Node.js and MongoDB
 - 🌱 I’m currently learning to use React with Node.js
-- 📫 How to reach me: adoryvo.business@gmail.com
+- 📫 How to reach me: business@adoryvo.com
 
-#### Profile README Tutorial I used:
+#### Tutorial I used to create this blurb:
 https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
