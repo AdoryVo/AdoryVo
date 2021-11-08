@@ -1,5 +1,5 @@
 # Adory Vo :fire: :100:
-👋 Hey, I'm Adory, a junior at UC San Diego studying Math & Computer Science.
+👋 Hey, I'm Adory, a third-year at UC San Diego studying Math & Computer Science.
 
 <!--
 **AdoryVo/AdoryVo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
