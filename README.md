@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### What's going on:
 - 🔭 I’m currently working on freelance software development with web technologies like React and Vue.js
 - 🌱 I’m currently learning Rust to build a backend API using Luca Palmieri's book [Zero to Production In Rust](https://www.zero2prod.com/)
+- 😮 Technologies I want to learn more about: Vue, Electron, Go, React Native, Deno, Flutter, Redis, AWS, Next.js
 - 📫 How to reach me: business@adoryvo.com
 
 _**Check out [my LinkedIn](https://www.linkedin.com/in/adoryvo/) and [my website](https://www.adoryvo.com/) for more information!**_
