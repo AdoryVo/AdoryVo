@@ -1,5 +1,5 @@
 # 🌊 Adory Vo 🌊
-👋 Hey, I'm Adory, an alum with a B.S. in Math & Computer Science from UC San Diego pursuing a career in software development and potentially teaching. Outside of coding, I enjoy listening to new music and curating playlists ([more about that here](https://adoryvo.com/music/)) as well as playing video games with friends.
+👋 Hey, I'm Adory, a new grad with a B.S. in Math & Computer Science from UC San Diego pursuing a career in software development. I enjoy creating software tools and web apps in my spare time! Outside of coding, I enjoy listening to new music and curating playlists ([more about that here](https://adoryvo.com/music/)).
 
 <!--
 **AdoryVo/AdoryVo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
